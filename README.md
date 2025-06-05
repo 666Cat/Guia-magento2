@@ -150,7 +150,7 @@ Revisar especialmente las líneas dentro de environment: y healthcheck:.
 
 
 
-### 1️⃣ Parar el servicio Docker en Linu:
+### 1️⃣ Parar el servicio Docker en Linux:
 
 Parar todos los contenedores:
 
@@ -173,5 +173,7 @@ bash
 
 sudo systemctl status docker
 
+#### Conclusion:
 
+En equipos con windows 11 de menos de 16GB. no podra correr magento2 por falta de recuersos porblemas con la menoria RAM
 
